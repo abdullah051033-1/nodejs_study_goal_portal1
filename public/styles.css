@@ -14,7 +14,7 @@ form {
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   margin: 2rem auto;
-  max-width: 40rem;
+  max-width: 60rem
 }
 
 .form-control {
@@ -45,6 +45,6 @@ button {
 
 button:hover,
 button:active {
-  background-color: #50005a;
-  border-color: #50005a;
+  background-color: #0055ff;
+  border-color: #0055ff;
 }
